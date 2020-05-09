@@ -1,0 +1,28 @@
+#case {
+    background-color: red;
+    height: 500px;
+    border-radius: 3rem;
+}
+#controls {
+    width: 100%;
+    margin-top: 10px;
+    
+}
+#left {
+    margin-left: 20px;
+}
+#right {
+    float: right;
+    margin-right: 20px;
+}
+.control {
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-radius: 3rem;
+}
+canvas {
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: white;
+}
